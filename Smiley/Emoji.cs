@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Smiley
+namespace smiley
 {
-    class Smiley
+    class Emoji
     {
         public class Item
         {
@@ -14,7 +14,7 @@ namespace Smiley
             public string art { get; set; }
         }
 
-        public class RootObject
+        public class Category
         {
             public string category { get; set; }
             public List<Item> items { get; set; }

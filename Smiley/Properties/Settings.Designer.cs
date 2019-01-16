@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Smiley.Properties
+namespace smiley.Properties
 {
 
 
